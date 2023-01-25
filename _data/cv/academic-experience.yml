@@ -1,8 +1,9 @@
 - title: ''
-  description: 'McMaster University (2005 – present)'
+- description: 'MAE 101A: Introductory Fluid Mechanics'
+- description: 'MAE 30A: Statics and Introduction to Dynamics'
+- description: 'MAE 20: Elements of Materials Science'
+- description: 'MAE 11: Thermodynamics'
+- description: 'MAE 8: Matlab Programming for Engineering Analysis'
+- description: 'MAE 3: Introduction to Engineering Graphics and Design'
 
-- title: 'MAE 20'
-  description: 'McGill University (1987 – 2005)'
-  
-- name: 'mae2333'
 
