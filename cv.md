@@ -1,4 +1,4 @@
 ---
-layout: cvaaa
+layout: cv
 title: "Educatioaaaan"
 ---
