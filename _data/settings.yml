@@ -2,7 +2,7 @@ menu:
 - {name: 'About me', url: '/people'}
 - {name: 'Projects', url: '/publications'}
 - {name: 'Work Experience', url: '/courses'}
-- {name: 'Education', url: '/cv'}
+- {name: 'Education', url: '/education'}
 # - {name: 'contact', url: '/contact'}
 
 people:
