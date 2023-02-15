@@ -5,9 +5,12 @@ menu:
 - {name: 'Education', url: '/education'}
 # - {name: 'contact', url: '/contact'}
 
-people:
-- {name: 'Dual Barrel Mechanism', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada',
-phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/dual-barrel.JPG', url: 'primary-investigator'}
+projects:
+- {name: 'Dual Barrel Mechanism',
+  bullet_1: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
+  bullet_2: 'abc',
+  bullet_3: 'deff',
+image: 'assets/img/dual-barrel.JPG', url: 'primary-investigator'}
 # - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
