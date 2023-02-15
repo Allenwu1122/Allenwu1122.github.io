@@ -1,2 +1,6 @@
 details:
-- {name: 'Dual Barrel Mechanism'}
+- {name: 'Dual Barrel Mechanism',
+  bullet_1: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
+  bullet_2: 'abc',
+  bullet_3: 'deff'
+  }

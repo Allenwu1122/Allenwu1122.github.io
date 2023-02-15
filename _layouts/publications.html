@@ -10,7 +10,9 @@ layout: default
   <div class="col-md-6">
     <h5>{{ person.name }}</h5>
     <p> </p>
-    {% include publications.html %}
+    <p>{{person.bullet_1}}</p>
+    <p>{{person.bullet_2}}</p>
+    <p>{{person.bullet_3}}</p>
 <!--     <p>Phone: {{ person.phone }}</p> -->
     <p><a href="{{ site.github.url }}/people/{{ person.url }}">Report</a></p>
   </div>
