@@ -8,8 +8,8 @@ menu:
 projects:
 - {name: 'Dual Barrel Mechanism',
   bullet_1: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
-  bullet_2: 'abc',
-  bullet_3: 'deff',
+  bullet_2: 'Product Designed: CADed and combined the individual components, including a worm gear system, a linear slide support system, and 3d printed mounts.',
+  bullet_3: 'Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.',
 image: 'assets/img/dual-barrel.JPG', url: 'primary-investigator'}
 # - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
