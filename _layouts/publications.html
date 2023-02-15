@@ -8,9 +8,13 @@ layout: default
 {% for person in site.data.settings.people %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ person.name }}</h3>
-    <p>Email: {{ person.email }}</p>
-    <p>Phone: {{ person.phone }}</p>
+    <h3>{{ person.name }}</h3>
+    <p>
+- Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.
+- Product Designed: CADed and combined the individual components, including a worm gear system, a linear slide support system, and 3d printed mounts.
+- Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.
+    </p>
+<!--     <p>Phone: {{ person.phone }}</p> -->
     <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
   </div>
   <div class="col-md-6">
