@@ -7,10 +7,15 @@ menu:
 
 projects:
 - {name: 'Dual Barrel Mechanism',
-  bullet_1: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
-  bullet_2: 'Product Designed: CADed and combined the individual components, including a worm gear system, a linear slide support system, and 3d printed mounts.',
-  bullet_3: 'Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.',
-  image: 'assets/img/dual-barrel.JPG'}
+  bullet_11: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
+  bullet_12: 'Product Designed: CADed and combined the individual components, including a worm gear system, a linear slide support system, and 3d printed mounts.',
+  bullet_13: 'Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.',
+  image: 'assets/img/dual-barrel.JPG',
+  name2: 'Scissor Lift',
+  bullet_21: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
+  bullet_22: 'Product Designed: CADed and combined the individual components, including a worm gear system, a linear slide support system, and 3d printed mounts.',
+  bullet_23: 'Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.',
+  }
   # name2: 'Scissor Lift',
   # 2-1: 'CAD Design: Designed and developed a scissor lift robot for class robotics competition using SolidWorks and AutoCAD.',
   # 2-2: 'Troubleshoot: Conducted testing and troubleshooting to identify and resolve issues in the lift's operation.',
