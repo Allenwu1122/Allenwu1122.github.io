@@ -1,7 +1,7 @@
 menu:
-- {name: 'About me', url: '/people'}
-- {name: 'Projects', url: '/publications'}
-- {name: 'Work Experience', url: '/courses'}
+- {name: 'About me', url: '/about'}
+- {name: 'Projects', url: '/projects'}
+- {name: 'Experience', url: '/experience'}
 - {name: 'Education', url: '/education'}
 # - {name: 'contact', url: '/contact'}
 
