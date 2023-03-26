@@ -12,9 +12,9 @@ projects:
   bullet_13: 'Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.',
   image: 'assets/img/dual-barrel.JPG',
   name2: 'Scissor Lift',
-  bullet_21: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
-  bullet_22: 'Product Designed: CADed and combined the individual components, including a worm gear system, a linear slide support system, and 3d printed mounts.',
-  bullet_23: 'Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.',
+  bullet_21: 'Designed and implemented a scissor lift mechanism involving lifting and precise positioning, resulting in increased efficiency.',
+  bullet_22: 'Analyze the components, dimensions, and materials of the lift to calculate theoretical and experimental values, as well as the factor of safety.',
+  bullet_23: 'Utilized SolidWorks and AutoCAD to create detailed designs and technical drawings of the scissor lift mechanism, including all moving parts and mechanical linkages.',
   }
   # name2: 'Scissor Lift',
   # 2-1: 'CAD Design: Designed and developed a scissor lift robot for class robotics competition using SolidWorks and AutoCAD.',
