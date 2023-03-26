@@ -13,7 +13,7 @@ projects:
   image: 'assets/img/dual-barrel.JPG',
   name2: 'Scissor Lift',
   bullet_21: 'Designed and implemented a scissor lift mechanism involving lifting and precise positioning, resulting in increased efficiency.',
-  bullet_22: 'Analyze the components, dimensions, and materials of the lift to calculate theoretical and experimental values, as well as the factor of safety.',
+  bullet_22: 'Analyzed the components, dimensions, and materials of the lift to calculate theoretical and experimental values, as well as the factor of safety.',
   bullet_23: 'Utilized SolidWorks and AutoCAD to create detailed designs and technical drawings of the scissor lift mechanism, including all moving parts and mechanical linkages.',
   }
   # name2: 'Scissor Lift',
