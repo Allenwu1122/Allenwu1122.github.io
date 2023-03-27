@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hello, my name is Ya-Lun Wu. I am a second year Mechanical Engineering student currently studing at University of California, San Diego. Welcome to my personal website! 
+Hello, my name is Ya-Lun Wu. I am a second year Mechanical Engineering student at the University of California, San Diego. Welcome to my personal website! 
 
 Here is my <a href="https://grabcad.com/library/gamepad-controller-3">resume</a>, 
 feel free to contact me if you have any questions!
