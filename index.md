@@ -10,6 +10,6 @@ feel free to contact me if you have any questions!
 
 
 
-Phone: (626)250-8020
 
+Phone: (626)250-8020<br>
 Email: yalunwu1122@gmail.com
