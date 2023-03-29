@@ -39,7 +39,7 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/Allenwu1122'}
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://www.instagram.com/allen.wu3/?hl=en'}
+# - {icon: 'instagram', link: 'https://www.instagram.com/allen.wu3/?hl=en'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ya-lun-wu-307451229/'}
 
 contacts:
