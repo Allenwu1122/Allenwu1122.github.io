@@ -28,8 +28,8 @@ connections and reliable usage.',
 
 awards:
 - {name: 'Dual Barrel Mechanism',
-  bullet_1: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
-  image: 'assets/img/dual-barrel.JPG'}
+  bullet_1: 'Built an autonomous car that utilized wireless communication signals for navigation and won first place in the WCSNG challenge at the hardware hackathon.',
+  image: 'assets/img/HardHack1.JPG'}
   # name2: 'Scissor Lift',
   # 2-1: 'CAD Design: Designed and developed a scissor lift robot for class robotics competition using SolidWorks and AutoCAD.',
   # 2-2: 'Troubleshoot: Conducted testing and troubleshooting to identify and resolve issues in the lift's operation.',
