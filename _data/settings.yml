@@ -25,6 +25,11 @@ connections and reliable usage.',
   bullet_34: 'Group Project: Collaborated with team members and implemented a game interface using Linux programming to create a series of old arcade games on Raspberry pi game console.',
   image3: 'assets/img/ps4_up.jpg'
   }
+
+awards:
+- {name: 'Dual Barrel Mechanism',
+  bullet_1: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
+  image: 'assets/img/dual-barrel.JPG'}
   # name2: 'Scissor Lift',
   # 2-1: 'CAD Design: Designed and developed a scissor lift robot for class robotics competition using SolidWorks and AutoCAD.',
   # 2-2: 'Troubleshoot: Conducted testing and troubleshooting to identify and resolve issues in the lift's operation.',
