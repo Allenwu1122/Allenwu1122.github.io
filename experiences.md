@@ -5,22 +5,6 @@ title: "Experiences"
 
 
 {% for details in site.data.settings.experiences %}
-<div class="row g-5 mb-5">
-  <div class="col-md-6">
-    <h5>{{ details.name3 }}</h5>
-    <p> </p>
-    <p>{{ details.bullet_31 }}</p>
-    <p>{{ details.bullet_32 }}</p>
-    <p>{{ details.bullet_33 }}</p>
-    <p>{{ details.bullet_34 }}</p>
-    <p> </p>
-    <p><a href="https://grabcad.com/library/gamepad-controller-3">Grabcad</a></p>
-  </div>
-  <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ details.image3 }}" alt="Contact" width="100%">
-  </div>
-</div>
-
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
@@ -29,6 +13,7 @@ title: "Experiences"
     <p>{{ details.bullet_11 }}</p>
     <p>{{ details.bullet_12 }}</p>
     <p>{{ details.bullet_13 }}</p>
+    <p>{{ details.bullet_14 }}</p>
     <p> </p>
     <p><a href="https://drive.google.com/file/d/14UiRW9Y1P3uVapDkxaENbcONB6_dPAQS/view?usp=sharing">Report</a></p>
     <p><a href="https://grabcad.com/library/dual-barrel-mechanism-1">Grabcad</a></p>
