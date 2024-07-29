@@ -12,10 +12,8 @@ title: "Experiences"
     <p> </p>
     <p>{{ details.bullet_11 }}</p>
     <p>{{ details.bullet_12 }}</p>
-    <p>{{ details.bullet_13 }}</p>
-    <p>{{ details.bullet_14 }}</p>
     <p> </p>
-    <p><a href="https://www.logitechg.com/">Link</a></p>
+    <p><a href="https://www.logitechg.com/en-us/products/gaming-mice.html">Link</a></p>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/{{ details.image }}" alt="Contact" width="100%">
