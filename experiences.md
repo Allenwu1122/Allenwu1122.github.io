@@ -15,8 +15,7 @@ title: "Experiences"
     <p>{{ details.bullet_13 }}</p>
     <p>{{ details.bullet_14 }}</p>
     <p> </p>
-    <p><a href="https://drive.google.com/file/d/14UiRW9Y1P3uVapDkxaENbcONB6_dPAQS/view?usp=sharing">Report</a></p>
-    <p><a href="https://grabcad.com/library/dual-barrel-mechanism-1">Grabcad</a></p>
+    <p><a href="https://www.logitechg.com/">Link</a></p>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/{{ details.image }}" alt="Contact" width="100%">
@@ -31,7 +30,7 @@ title: "Experiences"
     <p>{{ details.bullet_22 }}</p>
     <p>{{ details.bullet_23 }}</p>
     <p> </p>
-    <p><a href="https://docs.google.com/document/d/1ecC27qutFokkcPnpAUp6fbA3eaaVP8JzZkOPduv_ETM/edit?usp=sharing">Report</a></p>
+    <p><a href="https://tritonrobotics.ucsd.edu/">Link</a></p>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/{{ details.image2 }}" alt="Contact" width="100%">
