@@ -17,10 +17,10 @@ Hi! My name is Allen. Welcome to my personal page where you can learn more about
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/Profile.jpg" alt="Profile Picture" width="100%">
+    <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" width="100%">
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/Hobby1.jpg" alt="Hobby Picture 1" width="100%">
+    <img src="{{ site.github.url }}/assets/img/military.JPG" alt="Military" width="100%">
   </div>
 </div>
 
