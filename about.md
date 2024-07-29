@@ -9,7 +9,10 @@ Hi! My name is Allen. Welcome to my personal page where you can learn more about
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" width="100%">
+  Hi! My name is Allen. Welcome to my personal page where you can learn more about me.
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" width="50%">
   </div>
   <div class="col-md-6">
   </div>
