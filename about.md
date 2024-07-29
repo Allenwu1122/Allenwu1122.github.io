@@ -5,14 +5,15 @@ title: "About Me"
 
 
 
-Hi! My name is Allen. Welcome to my personal page where you can learn more about me.
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
   Hi! My name is Allen. Welcome to my personal page where you can learn more about me.
+  <p> </p>
+  I am a mechanical engineer specializing in controls and robotics. 
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" width="50%">
+    <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" width="70%">
   </div>
   <div class="col-md-6">
   </div>
@@ -20,7 +21,7 @@ Hi! My name is Allen. Welcome to my personal page where you can learn more about
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/Hobby2.jpg" alt="Hobby Picture 2" width="100%">
+    <img src="{{ site.github.url }}/assets/img/military.JPG" alt="military" width="100%">
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/Travel.jpg" alt="Travel Picture" width="100%">
