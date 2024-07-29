@@ -1,12 +1,10 @@
-- description: 'MAE 131A/B: Solid Mechancis'
-- description: 'MAE 107: Computational Methods'
-- description: 'MAE 105: Mathematical Physics'
-- description: 'MAE 101A/B: Fluid Mechanics'
+
+- description: 'MAE 170: Experimental Techniques'
+- description: 'MAE 143A: Signals and Systems'
+- description: 'MAE 107/150: Computational Methods in Design and Engineering'
 - description: 'MAE 40: Linear Circuits'
-- description: 'MAE 30A/B: Statics and Dynamics'
-- description: 'MAE 20: Elements of Materials Science'
-- description: 'MAE 11: Thermodynamics'
 - description: 'MAE 8: Matlab Programming for Engineering Analysis'
-- description: 'MAE 3: Introduction to Engineering Graphics and Design'
+- description: 'Cogs 108: Data Science in Practice'
+
 
 
