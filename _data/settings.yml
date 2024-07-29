@@ -1,5 +1,5 @@
 menu:
-# - {name: 'About me', url: '/people'}
+- {name: 'About me', url: '/about'}
 - {name: 'Projects', url: '/projects'}
 # - {name: 'Experience', url: '/courses'}
 - {name: 'Awards', url: '/awards'}
@@ -27,7 +27,7 @@ connections and reliable usage.',
   }
 
 awards:
-- {name: 'Dual Barrel Mechanism',
+- {name: 'IEEE Hardware Hackathon',
   bullet_1: 'Built an autonomous car that utilized wireless communication signals for navigation and won first place in the WCSNG challenge at the hardware hackathon.',
   image: 'assets/img/HardHack1.JPG'}
   # name2: 'Scissor Lift',
