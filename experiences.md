@@ -45,7 +45,7 @@ title: "Experiences"
     <p>{{ details.bullet_31 }}</p>
     <p>{{ details.bullet_32 }}</p>
     <p> </p>
-    <p><a href="https://tritonrobotics.ucsd.edu/">Link</a></p>
+    <p><a href="https://v5rc-kb.recf.org/hc/en-us/articles/9660827298839-Competition-History-2020-2021-Change-Up">Link</a></p>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/{{ details.image3 }}" alt="Contact" width="100%">
