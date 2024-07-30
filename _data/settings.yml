@@ -27,13 +27,15 @@ connections and reliable usage.',
   }
 
 experiences:
-- {name: 'Logitech Gaming Mechanical Engineering Intern',
+- {name: 'Logitech Gaming',
+  position: 'Mechanical Engineering Intern',
   bullet_11: 'During my sophomore summer, I had the opportunity to work as a mechanical engineering intern with the Logitech Gaming team. I spent two months collaborating with professionals, including engineers from various departments.',
   bullet_12: 'My main responsibility was designing a mechanism for a new gaming mouse. While the details I can share are limited, I contributed to mechanical research, innovative designs, and functional prototypes. I also gained experience in CAD modeling, force analysis simulation, experimental testing, and performance optimization.',
   bullet_13: 'Conducted comprehensive testing, comparing and analyzing experimental results with functional prototypes to validate performance and optimize the design.',
   bullet_14: 'Collaborated within a team of 30+ engineers and frequently cooperated with other gaming departments.',
   image: 'assets/img/logi.JPG',
-  name2: 'Triton Robotics Mechanical Engineer',
+  name2: 'Triton Robotics',
+  position2: 'Mechanical Engineer',
   bullet_21: 'During my two years with Triton Robotics, I worked on the Infantry team, focusing on designing mechanisms and resolving hardware issues. I participated in several projects, including the design of a dual barrel mechanism to enhance shooting performance.',
   bullet_22: 'We competed twice in the annual Robomaster competition. This valuable experience allowed me to learn a lot from my colleagues, including 3D modeling, mechanical design, manufacturing, and machine assembly.',
   image2: 'assets/img/tr.jpeg',

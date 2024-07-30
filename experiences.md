@@ -9,7 +9,7 @@ title: "Experiences"
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <h4>{{ details.name }}</h4>
-    <p><em>{{ details.name }}</em></p>
+    <p><em>{{ details.position }}</em></p>
     <p> </p>
     <p>{{ details.bullet_11 }}</p>
     <p>{{ details.bullet_12 }}</p>
@@ -24,6 +24,7 @@ title: "Experiences"
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <h5>{{ details.name2 }}</h5>
+    <p><em>{{ details.position2 }}</em></p>
     <p> </p>
     <p>{{ details.bullet_21 }}</p>
     <p>{{ details.bullet_22 }}</p>
