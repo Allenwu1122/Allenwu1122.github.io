@@ -8,7 +8,8 @@ title: "Experiences"
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ details.name }}</h5>
+    <h4>{{ details.name }}</h4>
+    <p><em>{{ details.name }}</em></p>
     <p> </p>
     <p>{{ details.bullet_11 }}</p>
     <p>{{ details.bullet_12 }}</p>
