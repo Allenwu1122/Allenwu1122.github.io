@@ -13,7 +13,7 @@ title: "About Me"
   Beyond the classroom, I have gained valuable experiences as a mechanical intern or engineer. These experiences have made me more innovative and thoughtful, helping me to refine my career path.
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" class="shift-right" width="70%">
+    <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" style="margin-left: 20px;" width="70%">
   </div>
   <div class="col-md-6">
   </div>
