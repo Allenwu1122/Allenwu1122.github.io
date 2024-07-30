@@ -39,13 +39,13 @@ experiences:
   bullet_21: 'During my two years with Triton Robotics, I worked on the Infantry team, focusing on designing mechanisms and resolving hardware issues. I participated in several projects, including the design of a dual barrel mechanism to enhance shooting performance.',
   bullet_22: 'We competed twice in the annual Robomaster competition. This valuable experience allowed me to learn a lot from my colleagues, including 3D modeling, mechanical design, manufacturing, and machine assembly.',
   image2: 'assets/img/tr.jpeg',
-  name3: 'Gamepad Controller',
-  bullet_31: 'User Experience: 3D modeled and manufactured a gamepad controller, including designed the controller handles and button placement, for optimal user experience based on the exterior design of the PS4.',
-  bullet_32: 'Electronics: Designed and welded plastic circuit boards with main hardware components to ensure effective
-connections and reliable usage.',
+  name3: 'VEX Robotics',
+  position3: 'Mechanical Engineer',
+  bullet_31: 'I participated in the VEX robotics club team during high school. Our team competed in the national competition and achieved the position of 2nd runner-up.',
+  bullet_32: 'Our role was to design and build robots, encompassing both hardware and software, to complete specific tasks in various competitions. Throughout this experience,
+  I developed skills in manufacturing, experimental testing, and robotics.',
   bullet_33: 'Innovative Ideas: Incorporated innovative ideas, such as a captive nuts design, to enhance the stability and accessibility of the project.',
-  bullet_34: 'Group Project: Collaborated with team members and implemented a game interface using Linux programming to create a series of old arcade games on Raspberry pi game console.',
-  image3: 'assets/img/ps4_up.jpg'
+  image3: 'assets/img/vex.jpg'
   }
 
 

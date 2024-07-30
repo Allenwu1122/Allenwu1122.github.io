@@ -23,7 +23,7 @@ title: "Experiences"
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ details.name2 }}</h5>
+    <h4>{{ details.name2 }}</h4>
     <p><em>{{ details.position2 }}</em></p>
     <p> </p>
     <p>{{ details.bullet_21 }}</p>
@@ -36,6 +36,22 @@ title: "Experiences"
     <img src="{{ site.github.url }}/{{ details.image2 }}" alt="Contact" width="100%">
   </div>
 </div>
+
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h4>{{ details.name3 }}</h4>
+    <p><em>{{ details.position3 }}</em></p>
+    <p> </p>
+    <p>{{ details.bullet_31 }}</p>
+    <p>{{ details.bullet_32 }}</p>
+    <p> </p>
+    <p><a href="https://tritonrobotics.ucsd.edu/">Link</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ details.image3 }}" alt="Contact" width="100%">
+  </div>
+</div>
+
 
 
 {% endfor %}
