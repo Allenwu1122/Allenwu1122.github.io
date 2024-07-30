@@ -3,7 +3,7 @@ layout: about
 title: "About Me"
 ---
 
-
+I am currently pursuing a mechanical engineering degree at UCSD, with a specialization in controls and robotics. My passion lies in the future of robotics technology, and I am eager to contribute to this dynamic industry. To equip myself with the necessary skills, I am taking elective courses in autonomous vehicles, machine learning algorithms, data analysis, and robotics. These classes provide me with a strong engineering foundation and practical applications across various fields, preparing me to become a better engineer in the near future.
 
 
 <div class="row g-5 mb-5">
