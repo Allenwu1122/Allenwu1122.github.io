@@ -7,10 +7,10 @@ menu:
 # - {name: 'contact', url: '/contact'}
 
 projects:
-- {name4: 'Skateboard brake',
+- {name4: 'Skateboard Brake',
   bullet_41: 'I love skating around campus, though sometimes going fast can lead to safety issues. To address this, my team and I decided to invent a skateboard brake that maximizes skater safety. During customer discovery,
   we realized skaters were interested in this product due to its convenience and lower cost compared to electric skateboards. Our goal was to modularize our product to provide the convenience that customers want while addressing the safety concern.',
-  bullet_42: 'Considering the longevity and braking force required, our team explored permanent magnets and Eddy Current Braking as a potential solution. After conducting experiments, our minimum viable product confirmed our hypothesis that this approach is viable for our product.',
+  bullet_42: 'Considering the longevity and braking force required, our team explored permanent magnets and Eddy current braking as a potential solution. After conducting experiments, our minimum viable product confirmed our hypothesis that this approach is viable for our product.',
   image4: 'assets/img/skate.jpg',
   name: 'Dual Barrel Mechanism',
   bullet_11: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
