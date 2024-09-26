@@ -8,12 +8,14 @@ menu:
 
 projects:
 - {name4: 'Skateboard Brake',
+  skill4: '3D Modeling, Prototyping',
   bullet_41: 'I love skating around campus, though sometimes going fast can lead to safety issues. To address this, my team and I decided to invent a skateboard brake that maximizes skater safety. During customer discovery,
   we realized skaters were interested in this product due to its convenience and lower cost compared to electric skateboards. Our goal was to modularize our product to provide the convenience that customers want while addressing the safety concern.',
   bullet_42: 'Considering the longevity and braking force required, our team explored permanent magnets and Eddy current braking as a potential solution. After conducting experiments, our minimum viable product confirmed our hypothesis that this approach is viable for our product.',
   image4: 'assets/img/skate.jpg',
 
   name5: 'Walkability vs Health',
+  skill5: 'Python, Data Processing and Analysis',
   bullet_51: 'My team and I explored the relationship between walkability and physical health across the United States, with a specific focus on California. 
   We hypothesized that higher walkability indices would correlate with lower levels of physical health problems, as walkable environments encourage residents to be more active. 
   Recognizing that walkability can vary significantly within a state, we analyzed data at both the state and county levels.',
@@ -22,18 +24,21 @@ projects:
   image5: 'assets/img/walkability.png',
 
   name: 'Dual Barrel Mechanism',
+  skill: 'Solidworks, 3D Modeling, Mechanical Drawing',
   bullet_11: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
   bullet_12: 'Product Designed: CADed and combined the individual components, including a worm gear system, a linear slide support system, and 3d printed mounts.',
   bullet_13: 'Analytic Result: 3D printed and fabricated the system for the Infantry robot which increase the overall shooting efficiency by 50%.',
   image: 'assets/img/dual-barrel.JPG',
 
   name2: 'Scissor Lift Mechanism',
+  skill2: 'Fusion, Solidworks, Lazercutting',
   bullet_21: 'Designed and implemented a scissor lift mechanism involving lifting and precise positioning, resulting in increased efficiency.',
   bullet_22: 'Analyzed the components, dimensions, and materials of the lift to calculate theoretical and experimental values, as well as the factor of safety.',
   bullet_23: 'Utilized SolidWorks and AutoCAD to create detailed designs and technical drawings of the scissor lift mechanism, including all moving parts and mechanical linkages.',
   image2: 'assets/img/scissorlift.png',
 
   name3: 'Gamepad Controller',
+  skill3: 'Solidworks, 3D Printing',
   bullet_31: 'User Experience: 3D modeled and manufactured a gamepad controller, including designed the controller handles and button placement, for optimal user experience based on the exterior design of the PS4.',
   bullet_32: 'Electronics: Designed and welded plastic circuit boards with main hardware components to ensure effective
 connections and reliable usage.',
