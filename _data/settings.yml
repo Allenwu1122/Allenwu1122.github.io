@@ -19,8 +19,7 @@ projects:
   Recognizing that walkability can vary significantly within a state, we analyzed data at both the state and county levels.',
   bullet_52: 'Our research involved collecting and analyzing data on walkability indices and physical health rankings. Through graphical visualizations, we found that areas with higher walkability scores generally exhibited better health outcomes. 
   However, it is crucial to acknowledge that health is influenced by multiple factors beyond just walkability.',
-  image: 'assets/img/walkability.png',
-
+  image5: 'assets/img/walkability.png',
 
   name: 'Dual Barrel Mechanism',
   bullet_11: 'Project Planning: Researched practicable mechanic ideas, hand-sketching the systems, and distributing reports to the mechanical team.',
