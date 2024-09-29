@@ -6,6 +6,7 @@ title: "Experiences"
 
 {% for details in site.data.settings.experiences %}
 
+
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <h4>{{ details.name }}</h4>
@@ -20,6 +21,22 @@ title: "Experiences"
     <img src="{{ site.github.url }}/{{ details.image }}" alt="Contact" width="100%">
   </div>
 </div>
+
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h4>{{ details.name4 }}</h4>
+    <p><em>{{ details.position4 }}</em></p>
+    <p> </p>
+    <p>{{ details.bullet_41 }}</p>
+    <p>{{ details.bullet_42 }}</p>
+    <p> </p>
+    <p><a href="https://www.shini.com/en/products_sub_Automation-Solutions.html">Link</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ details.image4 }}" alt="Contact" width="100%">
+  </div>
+</div>
+
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
