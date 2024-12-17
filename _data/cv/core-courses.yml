@@ -1,11 +1,12 @@
 
-- description: 'MAE 170: Experimental Techniques'
+- description: 'ECE 276A: Sensing & Estimations in Robotics'
 - description: 'MAE 148: Introduction to Autonomous Vehicle'
 - description: 'MAE 143A: Signals and Systems'
+- description: 'MAE 143B: Linear Control'
 - description: 'MAE 107/150: Computational Methods in Design and Engineering'
 - description: 'MAE 40: Linear Circuits'
 - description: 'MAE 8: Matlab Programming for Engineering Analysis'
-- description: 'Cogs 108: Data Science in Practice'
+- description: 'COGS 108: Data Science in Practice'
 
 
 
