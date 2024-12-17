@@ -12,7 +12,7 @@ projects:
   bullet_61: 'I love skating around campus, though sometimes going fast can lead to safety issues. To address this, my team and I decided to invent a skateboard brake that maximizes skater safety. During customer discovery,
   we realized skaters were interested in this product due to its convenience and lower cost compared to electric skateboards. Our goal was to modularize our product to provide the convenience that customers want while addressing the safety concern.',
   bullet_62: 'Considering the longevity and braking force required, our team explored permanent magnets and Eddy current braking as a potential solution. After conducting experiments, our minimum viable product confirmed our hypothesis that this approach is viable for our product.',
-  image6: 'assets/img/mae148.jpg',
+  image6: 'assets/img/mae148.png',
   
   name4: 'Skateboard Brake',
   skill4: '3D Modeling, Prototyping',
