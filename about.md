@@ -12,7 +12,8 @@ title: "About Me"
   Beyond the classroom, I have gained valuable experiences as a mechanical intern or engineer. These experiences have made me more innovative and thoughtful, helping me to refine my career path.
   <p style="margin-bottom: 8px;">&nbsp;</p> 
   In my spare time, I love to travel. Exploring new places and experiencing different cultures broadens my perspective and is something I deeply cherish.
-  </div>
+  <p style="margin-bottom: 8px;">&nbsp;</p> 
+  Recently, I took a gap quarter and completed military service in Taiwan. It was a memorable experience, completely different from the rest of my life. I hope this journey has prepared me to become a more mature individual and will continue to encourage me in the future.  </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/lake_walk.jpg" alt="Casual" style="margin-left: 30px;" width="85%">
   </div>
@@ -20,12 +21,14 @@ title: "About Me"
   </div>
 </div>
 
+
+<!-- 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/military.JPG" alt="military" width="85%">
   </div>
   <div class="col-md-6">
-  Recently, I took a gap quarter and completed military service in Taiwan. It was a memorable experience, completely different from the rest of my life. I hope this journey has prepared me to become a more mature individual and will continue to encourage me in the future.
+  
   </div>
-</div>
+</div> -->
 
