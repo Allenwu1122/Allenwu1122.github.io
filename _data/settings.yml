@@ -9,9 +9,10 @@ menu:
 projects:
 - {name6: 'Autonomous License Plate Detection Vehicle',
   skill6: 'ROS2, OpenCV, OpenALPR, Python, Linux',
-  bullet_61: 'I love skating around campus, though sometimes going fast can lead to safety issues. To address this, my team and I decided to invent a skateboard brake that maximizes skater safety. During customer discovery,
-  we realized skaters were interested in this product due to its convenience and lower cost compared to electric skateboards. Our goal was to modularize our product to provide the convenience that customers want while addressing the safety concern.',
-  bullet_62: 'Considering the longevity and braking force required, our team explored permanent magnets and Eddy current braking as a potential solution. After conducting experiments, our minimum viable product confirmed our hypothesis that this approach is viable for our product.',
+  bullet_61: '	We developed an autonomous vehicle designed to assist parking lot management by issuing citation tickets to violated vehicles. 
+  The system is powered by ROS2 and incorporates a GNSS-based autonomous localization module, Jetson Nano, and VESC motor controllers for precise navigation and control. 
+  Leveraging computer vision and OpenALPR, the vehicle detects license plates and cross-references them with a provided dataset. If a violation is identified, 
+  the system sends a signal to a robotic arm, which places a citation ticket sticker on the vehicle as a warning or formal citation. This innovative solution streamlines parking enforcement and enhances operational efficiency.',
   image6: 'assets/img/mae148.png',
   
   name4: 'Skateboard Brake',
